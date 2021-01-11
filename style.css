@@ -1,0 +1,28 @@
+.container {
+    display: grid;
+    width: 100%;
+
+}
+
+#search{
+display: block;
+margin-right: auto;
+margin-left: auto;
+}
+
+
+#logoImg {
+    display: block;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+    margin: 5px
+}
