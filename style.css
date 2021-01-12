@@ -1,0 +1,51 @@
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+li {
+    display: inline;
+}
+
+.navLeft {
+    float: left;
+}
+
+.navRight {
+    float: right;
+}
+
+.footerRight {
+    float: right;
+}
+
+.footerLeft {
+    float: left;
+}
+
+#signIn {
+    color:white;
+    background-color: rgb(70, 131, 234);
+    border-color: rgb(66,133,244);
+    border-style: solid;
+    border-radius: 2px;
+    padding-left: 12px;
+    padding-right: 12px;
+    height: 28px;
+    width: 
+}
