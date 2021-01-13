@@ -110,6 +110,7 @@ li {
 .search {
     height: 80px;
     width: 464px;
+    margin-bottom: 200px;
 }
 
 .searchBar {
@@ -130,11 +131,16 @@ li {
     width: 400px;
     font-family: arial, sans-serif;
     font-weight: 400;
+    border-width: 0px;
+}
+
+#searchText:focus {
+    outline: none;
 }
 
 #magnifyGlass {
     padding-right: 5px;
-    padding-left: 10px;
+    padding-left: 12px;
 }
 
 .logo {
